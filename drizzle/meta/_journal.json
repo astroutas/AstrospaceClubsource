@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788602503119,
+      "tag": "0000_dusty_doctor_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788607128928,
+      "tag": "0001_sad_warlock",
+      "breakpoints": true
+    }
+  ]
+}

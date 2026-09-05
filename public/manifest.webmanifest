@@ -1,0 +1,19 @@
+{
+  "name": "Astrospace Club — نادي الفلك والفضاء",
+  "short_name": "Astrospace",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/member",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080a09",
+  "theme_color": "#080a09",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
